@@ -1,4 +1,4 @@
-# Real-Time Code Editor
+# FlockCode
 
 A real-time collaborative code editor that allows multiple users to edit code simultaneously with live updates. Built with Node.js, Socket.io, and React.
 
