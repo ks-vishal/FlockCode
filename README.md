@@ -2,9 +2,6 @@
 
 A real-time collaborative code editor that allows multiple users to edit code simultaneously with live updates. Built with Node.js, Socket.io, and React.
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Real-Time+Code+Editor+Demo) 
-*Replace with actual screenshot*
-
 ## ✨ Features
 
 - **Real-time collaboration** - Multiple users can edit simultaneously
@@ -23,8 +20,8 @@ A real-time collaborative code editor that allows multiple users to edit code si
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/ks-vishal/Real_Time_code_Editor.git
-cd Real_Time_code_Editor
+git clone https://github.com/ks-vishal/FlockCode.git
+cd FlockCode
 
 # Install dependencies
 npm install
@@ -57,7 +54,7 @@ Visit [http://localhost:3808](http://localhost:3808) in your browser.
 
 ### Project Structure
 ```text
-Real_Time_code_Editor/
+FlockCode/
 ├── client/               # React frontend application
 │   ├── public/           # Static assets
 │   ├── src/              # React source code
